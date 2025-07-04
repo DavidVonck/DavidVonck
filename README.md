@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm DavidVonck! 👋
 
-<!--
-**DavidVonck/DavidVonck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Student & Solo Web Developer**  
+I’m passionate about building web experiences, working mostly with **JavaScript** and **PHP**. I love coding things from scratch and bringing ideas to life on the web.
 
-Here are some ideas to get you started:
+🚀 **Featured Project**
+- [de-groene-weide](https://github.com/DavidVonck/de-groene-weide)  
+  My favorite project so far! Check it out for a taste of what I do.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 **About Me**
+- Always learning, always building.
+- I work for myself—freedom to experiment and create is what drives me!
+- Striving for that sweet spot between fun and professional in everything I do.
+
+Thanks for stopping by my profile!  
+Feel free to check out my repositories and see what I’m up to.
